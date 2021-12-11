@@ -1,0 +1,4 @@
+// basic example
+
+$println "Hello!"
+$println "This is pretty epic"
